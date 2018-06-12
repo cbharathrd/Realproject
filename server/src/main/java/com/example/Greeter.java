@@ -13,9 +13,8 @@ public class Greeter {
   }
 
   /**
-   * @javadoc
-   * @param
-   * @return
+   * @param for someone
+   * @return greeting string
    */
 
   public final String greet(final String someone) {
